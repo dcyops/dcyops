@@ -1,16 +1,18 @@
-## Hi there 👋
+### PGP: cb1b173164c883fdff08b5b15974f3d602668ec0
+---
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-<!--
-**wysiwyg-jayb/wysiwyg-jayb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+xjMEZz4y2BYJKwYBBAHaRw8BAQdAUrF/GtNr2r4POJRMol/Ea6v8y/JbI/KF
+TjCLgghxFiHNIW5vdGlmeUBqYXliLmxvbCA8bm90aWZ5QGpheWIubG9sPsKM
+BBAWCgA+BYJnPjLYBAsJBwgJkFl089YCZo7AAxUICgQWAAIBAhkBApsDAh4B
+FiEEyxsXMWTIg/3/CLWxWXTz1gJmjsAAALbiAQDKdvik/c+OoR/qBe39IfZJ
+7ITPvQEIVoImz8slZ+NL7AEAgbBV+1bsXSmIE+j81iEKq5fuhmeCB/ggemhD
+qiHV5gDOOARnPjLYEgorBgEEAZdVAQUBAQdALm6wDcM82GW3FILZT+7STBrG
+Ovl65HLpiwaO7Tah4GIDAQgHwngEGBYKACoFgmc+MtgJkFl089YCZo7AApsM
+FiEEyxsXMWTIg/3/CLWxWXTz1gJmjsAAAGWlAP0VcV7MnLqDavRiFJ5PNOxD
+4Ut3Tpwge8uhJn+RLbD+ngEA60dR414hgpM6vfWgutWH2Y9HAfBwQqxzAILx
+6NNhcQc=
+=+FRC
+-----END PGP PUBLIC KEY BLOCK-----
+```
